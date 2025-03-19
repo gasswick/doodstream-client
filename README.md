@@ -3,7 +3,7 @@
 A feature-rich, TypeScript-based client for the DoodStream API with caching, logging, and comprehensive error handling.
 
 [![NPM version](https://img.shields.io/npm/v/dood-stream-client.svg)](https://www.npmjs.com/package/dood-stream-client)
-[![License](https://img.shields.io/npm/l/dood-stream-client.svg)](https://github.com/yourusername/dood-stream-client/blob/main/LICENSE)
+[![License](https://img.shields.io/npm/l/dood-stream-client.svg)](https://github.com/gasswick/dood-stream-client/blob/main/LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9%2B-blue)](https://www.typescriptlang.org/)
 
 ## ✨ Features
